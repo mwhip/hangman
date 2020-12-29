@@ -1,2 +1,2 @@
 # hangman
-hangman game GUI
+hangman game
